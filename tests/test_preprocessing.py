@@ -4,13 +4,6 @@ import pytest
 from cicmod_application.preprocessing import split_sequence
 
 
-# Dummy example data
-#
-# data = [0.5, 1, -0.3, -0.7]
-# dim: only 'time'
-# name: 'SAM'
-
-
 @pytest.fixture
 def example_ndarray():
 
