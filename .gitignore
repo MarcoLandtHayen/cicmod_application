@@ -89,3 +89,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Docker specific folder to change permissions of folders
+.docker_permission_solving/
