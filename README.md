@@ -10,7 +10,7 @@ https://github.com/MarcoLandtHayen/climate_index_collection/
 
 ## Development
 
-For now, we're developing Docker containter with JupyterLab environment, Tensorflow and several extensions, based on jupyter/tensorflow-notebook.
+For now, we're developing in a Docker containter with JupyterLab environment, Tensorflow and several extensions, based on jupyter/tensorflow-notebook.
 
 To start a JupyterLab within this container, run
 ```shell
